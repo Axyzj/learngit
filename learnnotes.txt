@@ -1,3 +1,5 @@
+master name wang
+
 mkdir learngit
 
 cd learngit
